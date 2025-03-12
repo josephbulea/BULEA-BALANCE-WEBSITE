@@ -1,0 +1,25 @@
+<!doctype html>
+<head><title>BULEA MAN'S WEBSITE</title></head>
+<body>
+<form>
+    <div>
+    <label for="fname">Firstname</label>
+    <input type="text" id="fname" name="fname">
+    </div>
+    <br>
+    <div>
+        <label for="lname">Lststname</label>
+        <input type="text" id="lname">
+    </div>
+    <br>
+    <div>
+     <input type="reset">
+    </div>
+    <br>
+    <div>
+        <input type="submit">
+    </div>
+</form>
+
+
+</body>
